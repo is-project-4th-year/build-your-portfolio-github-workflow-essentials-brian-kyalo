@@ -55,44 +55,41 @@ Include screenshots that demonstrate how you used GitHub to manage your project.
 > Upload the screenshots to your GitHub repository and reference them here using Markdown image syntax:
 > (you could just simply copy and paste the image into the Assignment.md)
 
-```markdown
-![Caption](path/to/your/image.png)
-```
-
-![alt text](1.png)
+![caption](img/1.png)
 This display the issues section which allows people working as a team or as an individual to track the development process by linking everything added (merged) to the main branch through creating issues and milstones.
 
-![alt text](2.png)
+![caption](img/2.png)
 This displays rulesets that determing how a repository will be handled this section enables you to set certain key rules that provide permissions to different users for example conducting a pull req before merging to the main branch.
 
-![alt text](3.png)
+![caption](img/3.png)
 Displays a the pull request section that shows open and closed requests and also through tags its able to link where each pull request came from (branch) and which issues and milstones the request is tied to.
 
-![alt text](rerwwww.png)
+![caption](img/rerwwww.png)
 This displays the project section with 3 colums todo, in progress and done. Helps developers see their progress. 
 
 ### A. Milestones and Issues
 - Screenshot showing your milestone(s) and the issues linked to it.
 
-![alt text](<milstones .png>)
-![alt text](issues.png)
+![caption](<img/milstones .png>)
+![caption](img/issues.png)
 
 ### B. Project Board
 
 - Screenshot of your GitHub Project Board with issues organized into columns (e.g., To Do, In Progress, Done).
-![alt text](board.png)
+![caption](img/board.png)
 
 ### C. Branching
 
 - Screenshot showing your branch list with meaningful naming.
-![alt text](branch.png)
+![caption](img/branch.png)
 
 ### D. Pull Requests
 
 - Screenshot of a pull request that’s either open or merged and linked to a related issue.
-![alt text](pull.png)
+![caption](img/pull.png)
 
 ### E. Merge Conflict Resolution
 
 - Screenshot of a resolved merge conflict (in a pull request, commit history, or your local terminal/GitHub Desktop).
-![alt text](rereee.png)
+![caption](img/rereee.png)
+
